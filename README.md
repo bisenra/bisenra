@@ -5,7 +5,7 @@
 ## 💼 About Me
 - 🔍 Data scientist Learner | AI/ML Learner | Lifelong Learner
 - 🎯 Focused on solving real-world problems with data and ML
-- 📈 Aspiring Kaggle Grandmaster | 🧠 Exploring AI Math Olympiads
+- 📈 Aspiring Kaggle Grandmaster | 🧠 Exploring AI Math Olympiads | Aspiring Kaggle expert
 - 💡 Currently building projects using Python, SQL, Excel, and ChatGPT
 
 ## 🛠️ Skills
