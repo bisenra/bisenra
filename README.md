@@ -3,7 +3,7 @@
 🚀 Passionate about data, driven by impact.
 
 ## 💼 About Me
-- 🔍 Data scientist Learner | AI/ML Learner | Lifelong Learner
+- 🔍 Data scientist Learner | AI/ML Learner | Lifelong Learner | Generative AI winner
 - 🎯 Focused on solving real-world problems with data and ML
 - 📈 Aspiring Kaggle Grandmaster | 🧠 Exploring AI Math Olympiads | Aspiring Kaggle expert
 - 💡 Currently building projects using Python, SQL, Excel, and ChatGPT
